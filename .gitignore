@@ -1,0 +1,30 @@
+﻿# ===== Compilados C =====
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# ===== Debug =====
+*.log
+*.stackdump
+
+# ===== VS Code =====
+.vscode/
+
+# ===== Build =====
+build/
+bin/
+Debug/
+Release/
+
+# ===== Windows =====
+Thumbs.db
+Desktop.ini
+
+# ===== Temporários =====
+*.tmp
+*.temp
+
